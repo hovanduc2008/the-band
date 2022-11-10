@@ -2,6 +2,9 @@
     #nav li {
         display: block;
     }
+    .mobile-menu-btn {
+        display: block;
+    }
 
     #header {
         

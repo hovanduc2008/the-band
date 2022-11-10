@@ -144,7 +144,10 @@ line-height: 38px;
 
     float: right;
     cursor: pointer;
+}
 
+.mobile-menu-btn {
+    display: none;
 }
 
 .mobile-menu-btn:hover {
@@ -164,6 +167,7 @@ line-height: 38px;
     line-height:46px;
     padding:0 20px; 
 }
+
 
 /* Slider */
 
